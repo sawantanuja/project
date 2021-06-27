@@ -6,7 +6,8 @@ Data Analysis with IPL match-by-match dataset from the seasons 2008 to 2019.
 <br>
 The dataset has been downloaded from kaggle.
 <br>
-<bold> things analysed:</bold>
+
+ ## things analysed:
 <p>
 i) Total Runs Across the Seasons.
 
